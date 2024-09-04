@@ -20,8 +20,8 @@ A simple, interactive Tic Tac Toe game built with React. This project serves as 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe-react.git
-   cd tic-tac-toe-react
+   git clone https://github.com/thejas-p/tic-tac-toe.git
+   cd tic-tac-toe
    ```
 
 2. **Install dependencies:**

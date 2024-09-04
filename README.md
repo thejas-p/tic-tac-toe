@@ -1,3 +1,40 @@
+# Tic Tac Toe Game 🎮
+
+A simple, interactive Tic Tac Toe game built with React. This project serves as a great example of using React components, state management, and event handling to create a classic game.
+
+## Features
+
+- **Two-Player Mode:** Play against a friend in a local two-player mode.
+- **Dynamic Game Board:** Fully responsive and interactive UI.
+- **Game State Management:** State is managed using React's `useState` hook for efficient and predictable updates.
+- **Winning Detection:** Automatically detects when a player wins or when the game ends in a draw.
+- **Clean and Simple UI:** Designed with minimalistic style for a better user experience.
+
+## Technologies Used
+
+- React
+- JavaScript (ES6+)
+- HTML5 & CSS3
+
+## How to Run the Project
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/your-username/tic-tac-toe-react.git
+   cd tic-tac-toe-react
+   ```
+
+2. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+
+3. **Run the app:**
+   ```bash
+   npm start
+   ```
+
+4. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
